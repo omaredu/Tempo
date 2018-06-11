@@ -18,7 +18,8 @@ Tempo es una aplicación de Android para ver las condiciones climáticas actuale
 
 # Capturas
 
-<<<<<<< HEAD
+Capturas de pantalla (v0.5 - v1.0).
+
 ## Pantalla principal. (v0.5)
 
 ![Screenshot](https://image.ibb.co/jWeH08/Screenshot_20180610_121321.png)
