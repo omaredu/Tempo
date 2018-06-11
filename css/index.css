@@ -51,7 +51,7 @@ body {
   width: 308px;
   height: 60px;
   margin: 0 auto;
-  border-radius: 6px;
+  border-radius: 10em;
   background-color: rgb(10, 196, 255);
   box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.09);
   font-size: 0.64em;
