@@ -38,4 +38,4 @@ Gracias por las recomendaciónes: [@ivan-avalos](https://github.com/ivan-avalos)
 
 Este es un proyecto de código abierto y cualquiera puede apoyar con la optimización y mejora del proyecto, y sus recomendaciónes y consejos se agradecen, además de que son de mucha utilidad.
 
-Aun falta terminar de hacer las correcciones necesaras en el código, por lo que la aplicación aun no esta del todo optimizada
+Aun falta terminar de hacer las correcciones necesarias en el código, por lo que la aplicación aun no esta del todo optimizada
