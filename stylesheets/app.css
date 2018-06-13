@@ -1,0 +1,52 @@
+
+.app-content {
+    width: 50%;
+    justify-content: center;
+    margin: 10vh auto 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tempo {
+    height: 12em;
+    width: 25em;
+    border-radius: 5px;
+    color: white;
+    background: linear-gradient(to bottom, #6BDCFF, #00C3FF);
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.15);
+}
+
+.content-tempo {
+    list-style: none;
+}
+
+.grades {
+    font-size: 4em;
+    padding-top: 1em;
+    text-align: center;
+}
+
+.grades-text {
+    font-family: product-sans-bold;
+    font-size: 1.5em;
+    float: right;
+    margin: -3em 0 0 0;
+    padding-right: 6em;
+}
+
+.info-tempo {
+    margin: 2em 0 0 0;
+    text-align: center;
+}
+
+.date {
+    font-size: 1.7em;
+}
+
+.hum {
+    margin-top: 1em;
+    opacity: .4;
+    font-size: 1.25em;
+    font-family: product-sans-bold;
+}

@@ -1,0 +1,14 @@
+
+@import url("fonts.css");
+@import url("header.css");
+@import url("body-index.css");
+@import url("footer.css");
+@import url("app.css");
+@import url("mobile.css");
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: product-sans;
+    text-rendering: optimizeLegibility;
+}

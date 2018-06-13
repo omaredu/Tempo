@@ -1,0 +1,20 @@
+
+.text-principal {
+    font-size: 6vh;
+    float: left;
+    width: 40%;
+    margin: 5% 0 0 0;
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+    height: 60vh;
+    padding: 20vh 0 0 0;
+}
+
+.art {
+    float: left;
+    width: 50%;
+    margin: 0 10vh 0 0;
+}

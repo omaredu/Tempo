@@ -1,0 +1,50 @@
+
+.header {
+    height: 5.5em;
+    width: 80%;
+    padding: 0 10% 0 10%;
+}
+
+.options-ul {
+    list-style: none;
+    display: inline-flex;
+    float: right;
+    margin: 2.2em 0 0 0;
+}
+
+.option {
+    opacity: .53;
+    font-size: .9em;
+    margin: 0 0 0 2.5em;
+    padding: 0 0 2.05em 0;
+    border-bottom: solid 2px transparent;
+    cursor: pointer;
+}
+
+.option:hover {
+    opacity: 1;
+    border-bottom: solid 2px #00C3FF;
+}
+
+.active {
+    opacity: 1;
+    border-bottom: solid 2px #00C3FF;
+}
+
+.title-product {
+    font-family: product-sans-bold;
+    float: left;
+    margin: 1.7em 0 0 .8em;
+    font-size: 1.2em;
+}
+
+.logo {
+    float: left;
+    height: 2em;
+    margin: 1.7em 0 0 0;
+}
+
+.android:hover {
+    opacity: 1;
+    border-bottom: solid 2px #40D184;
+}

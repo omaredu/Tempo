@@ -1,0 +1,27 @@
+
+.logo-mobile {
+    height: 3em;
+    margin-top: 3em;
+}
+
+.div-btn-mobile {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.ul-btn-mobile {
+    list-style: none;
+    width: 100%;
+}
+
+.btn-mobile {
+    width: 100%;
+    padding: 2em 0 2em 0;
+    background-color: #212121;
+    color: white;
+}
+
+.android-mobile {
+    background-color: #00C3FF;
+}
