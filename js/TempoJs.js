@@ -67,7 +67,7 @@ let Tempo = class {
     }
 
     static getWeather(latitude, longitude, apiKey){
-        $.get("http://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&appid=" + apiKey +"&units=metric", function (data) {                
+        $.get("https://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&appid=" + apiKey +"&units=metric", function (data) {                
             var jsonDefine = JSON.stringify(data)
             var json = JSON.parse(jsonDefine)
             localStorage.setItem('temp', json.main.temp)
