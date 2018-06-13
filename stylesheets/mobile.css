@@ -1,4 +1,5 @@
 
+
 .logo-mobile {
     height: 3em;
     margin-top: 3em;
@@ -24,4 +25,9 @@
 
 .android-mobile {
     background-color: #00C3FF;
+}
+
+.int-text-mobile {
+    margin-top: 8em;
+    font-size: 2em;
 }
